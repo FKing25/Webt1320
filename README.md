@@ -1,3 +1,3 @@
 ## Webt 1320 Project Page
 
-<a href="example/index.html">Example Page</a>
+<a href="Example/index.html">Example Page</a>
